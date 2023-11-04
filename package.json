@@ -1,0 +1,14 @@
+{
+  "name": "name-picker",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "human-names": "^1.0.12"
+  }
+}
